@@ -7,9 +7,13 @@ from nltk.corpus import stopwords
 # ----------------------------
 # LOAD MODELS
 # ----------------------------
-model = pickle.load(open(r"D:\6TH SEM\PROJECTS\TEXT MINING\news-bias-detection\models\bias_model.pkl", "rb"))
-vectorizer = pickle.load(open(r"D:\6TH SEM\PROJECTS\TEXT MINING\news-bias-detection\models\tfidf_vectorizer.pkl", "rb"))
-label_encoder = pickle.load(open(r"D:\6TH SEM\PROJECTS\TEXT MINING\news-bias-detection\models\label_encoder.pkl", "rb"))
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+
+model = pickle.load(open(BASE_DIR / "models" / "bias_model.pkl", "rb"))
+vectorizer = pickle.load(open(BASE_DIR / "models" / "tfidf_vectorizer.pkl", "rb"))
+label_encoder = pickle.load(open(BASE_DIR / "models" / "label_encoder.pkl", "rb"))
 
 # ----------------------------
 # TEXT PREPROCESSING
@@ -36,7 +40,9 @@ def predict_bias(text):
 # ----------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"D:\6TH SEM\PROJECTS\TEXT MINING\news-bias-detection\data\datalive_cleaned_data.csv")
+    data_path = BASE_DIR / "data" / "datalive_cleaned_data.csv"
+    return pd.read_csv(data_path)
+
 
 df = load_data()
 
