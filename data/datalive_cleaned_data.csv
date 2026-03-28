@@ -1,0 +1,465 @@
+url,title,date,site,bias,page_text,clean_text
+https://www.bbc.co.uk/sounds/play/m002sg2c,Taking Back Control: Why ‘Agency’ Could Be The Next Big Idea In Politics,2026-03-12,BBC News,center,"Available for over a year
+
+On this week’s episode, leading pollster James Kanagasooriam explains how a sense of powerlessness amongst voters is shaping politics. His research suggests that people who feel like they have control over their lives are more likely to vote for traditional parties whereas those who don’t tend to vote for populists promising to change the status quo. So what can we learn from this and how could the idea of ‘agency’ help solve some of Britain’s problems? TIMECODES (00:04:12) Why James thinks agency is the next big idea in politics (00:11:34) What does agency say about politics today? (00:16:30) Degradation of civic institutions and cultural loss (00:29:29) Cultural pessimism (00:34:41) The attention economy (00:40:17) Trade-offs (00:45:19) The impact of Covid (00:48:29) James’ radical solutions (00:52:06) Amol’s reflections GET IN TOUCH * WhatsApp: 0330 123 9480 * Email: radical@bbc.co.uk Episodes of Radical with Amol Rajan are released every Thursday and you can also watch them on BBC iPlayer: https://www.bbc.co.uk/iplayer/episodes/m002f1d0/radical-with-amol-rajan Amol Rajan is a presenter of the Today programme on BBC Radio 4. He is also the host of University Challenge on BBC One. Before that, Amol was media editor at the BBC and editor at The Independent. Radical with Amol Rajan is a Today Podcast. It was made by Lewis Vickers with Anna Budd. Digital production was by Gabriel Purcell-Davis and Jem Westgate. Technical production was by Dave O'Neill. The editor is Sam Bonham. The executive producer is Owenna Griffiths.
+
+Programme Website",available year week episode leading pollster james kanagasooriam explains sense powerlessness amongst voters shaping politics research suggests people feel like control lives likely vote traditional parties whereas tend vote populists promising change status quo learn could idea agency help solve britain problems timecodes james thinks agency next big idea politics agency say politics today degradation civic institutions cultural loss cultural pessimism attention economy trade offs impact covid james radical solutions amol reflections get touch whatsapp email radical bbc co uk episodes radical amol rajan released every thursday also watch bbc iplayer https www bbc co uk iplayer episodes f radical amol rajan amol rajan presenter today programme bbc radio also host university challenge bbc one amol media editor bbc editor independent radical amol rajan today podcast made lewis vickers anna budd digital production gabriel purcell davis jem westgate technical production dave neill editor sam bonham executive producer owenna griffiths programme website
+https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic,AI is now part of the culture wars — and real wars,2026-03-04,The Verge,unknown,"is a Senior Reporter for The Verge and author of Regulator , covering the second Trump administration, political influencers, tech lobbying and Big Tech vs. Big Government.
+
+Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington’s increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You’ll get so much more than doomer scenarios. We cover non-existential fun stuff like Legos, too.
+
+Do you work somewhere involving government, technology, and existential threats? Send all tips to tina.nguyen+tips@theverge.com, or to my Signal account @tina.nguyen19.
+
+This was, to put it mildly, not a chill weekend.
+
+For a few hours on Saturday, I thought that the Anthropic-Pentagon contract dispute, which seemed to have concluded on Friday night when Defense Secretary Pete Hegseth declared that the company was a supply-chain risk, would take a backseat in the news cycle. You know, because right around 1AM Saturday morning, the US launched 100 military fighter jets and directed them toward Iran. I’d been texting sources late into the night about OpenAI’s new contract with the Pentagon, asking whether Sam Altman did get those red lines on mass surveillance and autonomous lethal weapons, but by the time I woke up, the United States had assassinated Ayatollah Ali Khamenei and several other Iranian leaders in an aerial strike on Tehran, openly and unapologetically in broad daylight.
+
+Soon it became apparent, though, that Anthropic was part of the story, too. On Sunday, The Wall Street Journal reported that Claude-powered intelligence tools had been used by several military command centers during the strike, citing sources familiar. It’s unknown how the Pentagon used Claude in this specific operation in Iran, and such information would be classified and only known by people directly involved. But the Journal wrote that the Pentagon had already deeply embedded Claude, the only AI system that had the security clearance to handle classified information up until last week, into technology that performed “intelligence assessments, target identification and simulating battle scenarios” — technology that was, apparently, used in the Iran strike.
+
+A few observations can be pulled from this: First, the entire conflict was never about Anthropic posing an actual national security risk (but the public could already kind of see that). But second, while AI may not have yet reached the “fully autonomous lethal weapon” stage, it’s developed to a level sophisticated enough to conduct an impressively precise (though uncomfortably extralegal) strike on a foreign leader. It is all the more impressive considering that Iran was under a near-total, government-imposed internet blackout for several months, with virtually no digital connection to the outside world.
+
+I hit up Hamza Chaudhry, the AI and National Security lead at the nonpartisan Future of Life Institute, for his long view on Operation Epic Fury. He noted that both sides of the conflict were already using artificial intelligence in their warfare — Iran has deployed AI-assisted missiles in recent months — and while the US had clearly prevailed in this scenario, it was the prelude to what he described as a “dyadic automated warfare problem: two AI systems effectively talking to each other through the medium of kinetic action, each optimizing and responding faster than human decision-makers can follow.”
+
+Chaudry’s nightmare scenario, however, suggested the end of nuclear deterrence as a tool for global stability:
+
+“Recent analyses of the 2025 India-Pakistan and Iran-Israel conflicts found that AI renders second-strike forces more transparent and thus more vulnerable, and that while nuclear arsenals still impose a ceiling on all-out war, AI lowers the floor for sub-threshold aggression and compresses political reaction time. If an adversary believes its nuclear deterrent is becoming visible (e.g., submarines trackable, mobile launchers locatable, command infrastructure mappable) the rational response is to expand the arsenal or shift to a launch-on-warning posture. “Experts have described this as threatening ‘arms race stability’: the risk that one side might seek a breakout advantage in advanced technology, triggering complementary efforts by the other. This is not a hypothetical future problem. The technologies that made Operation Epic Fury possible are the same technologies that are slowly making nuclear deterrence more fragile. We have no international governance framework that addresses this adequately.”
+
+Natsec Lawyer-GPT
+
+So what exactly is in the magical, red line-respecting contract that Altman was bragging about? Currently, we don’t know, other than what OpenAI wrote about the contract on its company blog. Though it was essentially a press release, the post did contain excerpts from what the company claims is the contract itself, which stated that “The AI System shall not be used for unconstrained monitoring of U.S. persons’ private information as consistent with these authorities,” citing several preexisting security laws. But even that didn’t pass the legal sniff test. As my colleague Hayden Field reported yesterday:
+
+OpenAI appears to rely heavily on existing legal limits. It said its Pentagon agreement states that “for intelligence activities, any handling of private information will comply with the Fourth Amendment, the National Security Act of 1947 and the Foreign Intelligence and Surveillance Act of 1978, Executive Order 12333, and applicable DoD directives requiring a defined foreign intelligence purpose.” But this isn’t reassuring. In the years after 9/11, US intelligence agencies ramped up a surveillance system that they determined fell within the legal limits OpenAI cites, including multiple mass domestic spying operations (along with apparently highly invasive international ones.)
+
+Here’s one more piece of imaginary legalese, pointed out by a reader: “unconstrained monitoring” isn’t even a real legal term, much less one cited in the relevant authoritative laws that OpenAI is pointing to.
+
+Did Hegseth jump the gun?
+
+Screenshot via @realDonaldTrump/Truth Social.
+
+At first glance, President Donald Trump’s 3:47PM Friday post on Truth Social seemed like a final decision on Anthropic. But a careful reading indicates that Trump may have actually been open to negotiations. Nowhere in his post does he threaten to punish other companies for being Anthropic customers, and this one sentence below contains Trump’s only real legal threat to Anthropic. The crucial operative word is in bold:
+
+“Anthropic better get their act together, and be helpful during this phase out period, or I will use the Full Power of the Presidency to make them comply, with major civil and criminal consequences to follow.”
+
+White House watchers immediately saw this signal as a loud de-escalation tactic — an action could be taken, but hadn’t been yet — meant to buy several months of time for the Pentagon and Anthropic. This tactic only makes sense in the context of how Trump’s used social media during his time as president as both a carrot and stick. He’ll publicly post an aggressive threat online, like a declaration of a new tariff, an investigation into a company, or a nuclear holocaust on North Korea. Then an agreement is struck behind the scenes, and within weeks, Trump is extolling the virtues of his foes on Truth Social — even conceding to them, sometimes — and he experiences absolutely no political backlash, because Trump just does this all the time.
+
+That understanding only lasted about an hour and a half before Hegseth posted his decision to officially designate Anthropic a supply-chain risk, threatening to punish defense contractors that did “any commercial business” with the company, and declaring that his decision was “final.” Generally speaking, the Defense Secretary has the power to unilaterally make this decision, and they do not even have to announce it to the public or get sign-off from the President. But with the combination of those words, Hegseth threw the entire tech industry into a spiral.
+
+As of today, no one I’ve talked to — industry, policy, or otherwise — has any idea what “any commercial activity” actually means, or exactly what sort of punishment they’d incur if they continued to contract with Anthropic for non-defense purposes. Anthropic, meanwhile, stated on Friday that the laws on supply-chain risks only applied to Claude’s use at the Defense Department and did not extend outside those boundaries.
+
+If anyone has any idea exactly how “any commercial activity” with Anthropic could be reasonably (and legally, if possible) restricted vis-à-vis defense contractors, please send me your contact information.
+
+Posting through it
+
+Several people reiterated to me last week that setting egos and the entire “illegal punishment” thing aside, there was a high-level intellectual argument for the Pentagon’s position: A private company should not be able to dictate what the United States government, an entity that was chosen by the American people, does with its technology. But I for one cannot believe that the person who made this argument the most compellingly — on social media, at least — was Jeremy Lewin, an Under Secretary at the State Department, which is an entirely different government entity from the Department of Defense.
+
+Meanwhile, Emil Michael, the Uber corporate cautionary tale-turned-Pentagon CTO leading negotiations with both Anthropic and OpenAI, has mostly been posting nonstop ad hominem attacks on X calling Dario Amodei a “liar [with] a God-complex,” among other things, often at midnight. (Fun fact: Michael has written more X posts about Anthropic in the past few days than he has about the Iran strike.)
+
+And now, Recess.
+
+Last week, before any of this insanity happened, I attended a sold-out taping of The Hopkins Forum’s Open to Debate series on the topic: “Will AI Make Work Obsolete?” I was mostly there for the guest panelists — in what world do you ever see Andrew Yang going up against Facebook cofounder Chris Hughes? — but the debate itself was pretty compelling.
+
+The doomer position was argued by Yang and MIT professor and Nobel-winning economist Simon Johnson: AI is about to cause widespread job loss, and there’s no mechanism in place to prevent mass societal upheaval. The optimist position was argued by Hughes and Rumman Chowdhury, a data and social scientist and cofounder of the nonprofit Humane Intelligence: There is a future where AI can augment human work and improve human life. Both sides heavily agreed that unrestrained corporate greed was probably going to steer AI into the doomer scenario, but it was refreshing to hear someone make an optimistic case for AI.
+
+The episode will go live on Friday on Open to Debate’s Substack, but in the meantime, I did learn that if you say “David Sacks” in a room full of tech people in Washington, DC, someone will immediately come up to you and start complaining about him, unprompted.
+
+See you all next week.",senior reporter verge author regulator covering second trump administration political influencers tech lobbying big tech vs big government hello welcome regulator newsletter verge subscribers goes inside washington increasingly existential clashes tech politics forwarded interest full fledged subscription verge year get much doomer scenarios cover non existential fun stuff like legos work somewhere involving government technology existential threats send tips tina nguyen tips theverge com signal account tina nguyen put mildly chill weekend hours saturday thought anthropic pentagon contract dispute seemed concluded friday night defense secretary pete hegseth declared company supply chain risk would take backseat news cycle know right around saturday morning us launched military fighter jets directed toward iran texting sources late night openai new contract pentagon asking whether sam altman get red lines mass surveillance autonomous lethal weapons time woke united states assassinated ayatollah ali khamenei several iranian leaders aerial strike tehran openly unapologetically broad daylight soon became apparent though anthropic part story sunday wall street journal reported claude powered intelligence tools used several military command centers strike citing sources familiar unknown pentagon used claude specific operation iran information would classified known people directly involved journal wrote pentagon already deeply embedded claude ai system security clearance handle classified information last week technology performed intelligence assessments target identification simulating battle scenarios technology apparently used iran strike observations pulled first entire conflict never anthropic posing actual national security risk public could already kind see second ai may yet reached fully autonomous lethal weapon stage developed level sophisticated enough conduct impressively precise though uncomfortably extralegal strike foreign leader impressive considering iran near total government imposed internet blackout several months virtually digital connection outside world hit hamza chaudhry ai national security lead nonpartisan future life institute long view operation epic fury noted sides conflict already using artificial intelligence warfare iran deployed ai assisted missiles recent months us clearly prevailed scenario prelude described dyadic automated warfare problem two ai systems effectively talking medium kinetic action optimizing responding faster human decision makers follow chaudry nightmare scenario however suggested end nuclear deterrence tool global stability recent analyses india pakistan iran israel conflicts found ai renders second strike forces transparent thus vulnerable nuclear arsenals still impose ceiling war ai lowers floor sub threshold aggression compresses political reaction time adversary believes nuclear deterrent becoming visible e g submarines trackable mobile launchers locatable command infrastructure mappable rational response expand arsenal shift launch warning posture experts described threatening arms race stability risk one side might seek breakout advantage advanced technology triggering complementary efforts hypothetical future problem technologies made operation epic fury possible technologies slowly making nuclear deterrence fragile international governance framework addresses adequately natsec lawyer gpt exactly magical red line respecting contract altman bragging currently know openai wrote contract company blog though essentially press release post contain excerpts company claims contract stated ai system shall used unconstrained monitoring u persons private information consistent authorities citing several preexisting security laws even pass legal sniff test colleague hayden field reported yesterday openai appears rely heavily existing legal limits said pentagon agreement states intelligence activities handling private information comply fourth amendment national security act foreign intelligence surveillance act executive order applicable dod directives requiring defined foreign intelligence purpose reassuring years us intelligence agencies ramped surveillance system determined fell within legal limits openai cites including multiple mass domestic spying operations along apparently highly invasive international ones one piece imaginary legalese pointed reader unconstrained monitoring even real legal term much less one cited relevant authoritative laws openai pointing hegseth jump gun screenshot via realdonaldtrump truth social first glance president donald trump pm friday post truth social seemed like final decision anthropic careful reading indicates trump may actually open negotiations nowhere post threaten punish companies anthropic customers one sentence contains trump real legal threat anthropic crucial operative word bold anthropic better get act together helpful phase period use full power presidency make comply major civil criminal consequences follow white house watchers immediately saw signal loud de escalation tactic action could taken yet meant buy several months time pentagon anthropic tactic makes sense context trump used social media time president carrot stick publicly post aggressive threat online like declaration new tariff investigation company nuclear holocaust north korea agreement struck behind scenes within weeks trump extolling virtues foes truth social even conceding sometimes experiences absolutely political backlash trump time understanding lasted hour half hegseth posted decision officially designate anthropic supply chain risk threatening punish defense contractors commercial business company declaring decision final generally speaking defense secretary power unilaterally make decision even announce public get sign president combination words hegseth threw entire tech industry spiral today one talked industry policy otherwise idea commercial activity actually means exactly sort punishment incur continued contract anthropic non defense purposes anthropic meanwhile stated friday laws supply chain risks applied claude use defense department extend outside boundaries anyone idea exactly commercial activity anthropic could reasonably legally possible restricted vis vis defense contractors please send contact information posting several people reiterated last week setting egos entire illegal punishment thing aside high level intellectual argument pentagon position private company able dictate united states government entity chosen american people technology one cannot believe person made argument compellingly social media least jeremy lewin secretary state department entirely different government entity department defense meanwhile emil michael uber corporate cautionary tale turned pentagon cto leading negotiations anthropic openai mostly posting nonstop ad hominem attacks x calling dario amodei liar god complex among things often midnight fun fact michael written x posts anthropic past days iran strike recess last week insanity happened attended sold taping hopkins forum open debate series topic ai make work obsolete mostly guest panelists world ever see andrew yang going facebook cofounder chris hughes debate pretty compelling doomer position argued yang mit professor nobel winning economist simon johnson ai cause widespread job loss mechanism place prevent mass societal upheaval optimist position argued hughes rumman chowdhury data social scientist cofounder nonprofit humane intelligence future ai augment human work improve human life sides heavily agreed unrestrained corporate greed probably going steer ai doomer scenario refreshing hear someone make optimistic case ai episode go live friday open debate substack meantime learn say david sacks room full tech people washington dc someone immediately come start complaining unprompted see next week
+https://www.bbc.com/news/articles/cwygpdjq9jjo,Sir John Curtice: Greens' win means future of British politics is more uncertain than ever,2026-02-27,BBC News,center,"Labour could once be assured in Gorton and Denton of the support of, first, less well-off working class voters and, second, those from a minority background, both of which are especially numerous in the constituency and both of which were until recently bastions of support for Labour across the country as a whole.",labour could assured gorton denton support first less well working class voters second minority background especially numerous constituency recently bastions support labour across country whole
+https://www.bbc.com/news/articles/c0rj4nvw07do,Starmer seeks to carve out distinct UK approach to this conflict,2026-03-02,BBC News,center,"In the speech recorded and released by Downing Street on Sunday night, it was notable that even Sir Keir - who campaigned against British involvement in Iraq and was years away from becoming an MP, let alone prime minister - felt the need to stress: ""We all remember the mistakes of Iraq. And we have learned those lessons.""",speech recorded released downing street sunday night notable even sir keir campaigned british involvement iraq years away becoming mp let alone prime minister felt need stress remember mistakes iraq learned lessons
+https://www.bbc.com/news/articles/clyxwgll758o,Iranian footballer says 'everything will be fine' as she trains with Oz team,2026-03-16,BBC News,center,"After the team declined to sing the national anthem at the Women's Cup on 2 March, the players were moved to Brisbane, about an hour's drive north from the Gold Coast where they had been staying with their teammates before giving minders the slip and going into the protection of Australian Federal Police.",team declined sing national anthem women cup march players moved brisbane hour drive north gold coast staying teammates giving minders slip going protection australian federal police
+https://www.businessinsider.com/tim-cook-response-trump-relationship-criticism-2026-3,'I'm not political': Tim Cook responds to backlash against his relationship with the Trump administration,2026-03-18,Business Insider,unknown,"Tim Cook is bucking any labels you might assign to his political beliefs, despite what his critics think.
+
+The Apple CEO joined Michael Strahan on ""Good Morning America"" for an interview that aired Tuesday. Strahan asked Cook about his proximity to the Trump administration — namely, his attendance at the inauguration and a screening of the ""Melania"" documentary, as well as a US-made glass plaque Apple gifted Trump in 2025.
+
+""I'm not a political person on either side,"" Cook said. ""I'm not political.""
+
+Cook faced recent criticism from some Apple customers and employees over his presence at the documentary screening in January. Some customers called for a boycott on social media, and The Intercept reported that some employees shared negative reactions in internal Slack messages.
+
+Cook personally donated $1 million to Trump's inaugural committee in January 2025, according to a Federal Election Commission filing. In the past, Cook has held fundraisers for political parties on both sides of the aisle, including Hillary Clinton and Paul Ryan, as Fortune reported in 2016.
+
+""What I do is I interact on policy, not politics,"" Cook told Strahan. ""I focus on policy, so I'm very pleased that the President and the administration is accessible to talk about policy.""
+
+Trump said in 2019 that Cook was the only tech leader who called him personally. Cook has seemingly strengthened his relationship with Trump over the past year, including announcing Apple's $600 billion investment in US manufacturing over the next four years.
+
+""If you looked at your iPhone today, the front cover and the back cover, all of that glass will be coming out of Kentucky by the end of this year,"" Cook said in the ""Good Morning America"" interview.
+
+So far, his focus on policies and building in the US has paid off with the Trump administration, which has exempted some, but not all, of Apple's products from many tariffs.
+
+""The good news for companies like Apple is if you're building in the United States or have committed to build, without question, in the United States, there will be no charge,"" Trump said in August 2025.
+
+Apple still racked up a $1.4 billion tariff bill in the December quarter alone, the company said in its most recent earnings call. The Supreme Court has since struck down many of Trump's tariffs — though his administration has issued new ones — and some companies, like Costco and FedEx, have sued the government, seeking refunds of the tariffs they paid.
+
+Cook said Apple will take a wait-and-see approach, learning how the courts rule before deciding whether to try to get the money back.
+
+Whether he stands firmly on one side or the other, Cook's political tightrope walk continues.",tim cook bucking labels might assign political beliefs despite critics think apple ceo joined michael strahan good morning america interview aired tuesday strahan asked cook proximity trump administration namely attendance inauguration screening melania documentary well us made glass plaque apple gifted trump political person either side cook said political cook faced recent criticism apple customers employees presence documentary screening january customers called boycott social media intercept reported employees shared negative reactions internal slack messages cook personally donated million trump inaugural committee january according federal election commission filing past cook held fundraisers political parties sides aisle including hillary clinton paul ryan fortune reported interact policy politics cook told strahan focus policy pleased president administration accessible talk policy trump said cook tech leader called personally cook seemingly strengthened relationship trump past year including announcing apple billion investment us manufacturing next four years looked iphone today front cover back cover glass coming kentucky end year cook said good morning america interview far focus policies building us paid trump administration exempted apple products many tariffs good news companies like apple building united states committed build without question united states charge trump said august apple still racked billion tariff bill december quarter alone company said recent earnings call supreme court since struck many trump tariffs though administration issued new ones companies like costco fedex sued government seeking refunds tariffs paid cook said apple take wait see approach learning courts rule deciding whether try get money back whether stands firmly one side cook political tightrope walk continues
+https://www.businessinsider.com/hillary-clinton-bill-clinton-relationship-timeline,Hillary and Bill Clinton have been married for over 50 years. Here's a timeline of their relationship.,2026-02-26,Business Insider,unknown,"Hillary Clinton and Bill Clinton are arguably one of the best-known couples in the public eye.
+
+Having been together for over 50 years, they have navigated election wins and losses and endured intense scrutiny amid public scandals during their time in both state and national politics.
+
+From major campaign wins to the growth of their family, here is a timeline of their relationship.",hillary clinton bill clinton arguably one best known couples public eye together years navigated election wins losses endured intense scrutiny amid public scandals time state national politics major campaign wins growth family timeline relationship
+https://www.businessinsider.com/kalshi-crack-down-politicians-athletes-betting-2026-3,Kalshi says it will crack down on politicians and athletes betting,2026-03-24,Business Insider,unknown,"As lawmakers zero in on insider trading risks, Kalshi said it is rolling out a fresh set of guardrails for its sports and political betting markets.
+
+In a press release on Monday, the New York City-based prediction markets platform said it is introducing guardrails, which ""preemptively block politicians, athletes, and other relevant people from trading in certain politics and sports markets.""
+
+The move was made to comply with congressional proposals that prohibit insider trading, the company said.
+
+For politicians, Kalshi said it already prevents elected officials from betting. But the platform will now extend that ban to political candidates trying to trade on their own campaigns.
+
+Additionally, people in college and professional sports, including athletes, personnel, and referees, will be ""preemptively blocked from trading markets associated with sports they are involved in.""
+
+Kalshi said in the release that such trades were always banned. But prior to Monday's new feature launch, investigations were done after the trades were placed.
+
+The company also announced a new whistleblower function that allows Kalshi users to flag potential violations, saying that ""no screening system is perfect, and motivated bad actors consistently try to find a way.""
+
+Kalshi's announcement landed on the same day California Sen. Adam Schiff and Utah Sen. John Curtis introduced a bipartisan bill in the Senate, the ""Prediction Markets Are Gambling Act.""
+
+The legislation aims to prohibit Commodity Futures Trading Commission (CFTC) regulated companies, such as Kalshi and Polymarket, from listing any predictions that resemble a sports bet or ""casino-style game.""
+
+New York Rep. Alexandra Ocasio-Cortez reacted to the Kalshi announcement on Monday, saying in an X post that it was ""just a fig leaf to deflect from criticism,"" and ""absolutely not enough.""
+
+She said there were many other individuals, including staff, advisors, consultants, cabinet secretaries, and spouses, who could trade on insider information.
+
+Kalshi CEO Tarek Mansour responded to Ocasio-Cortez's X post, saying that Kalshi ""already bans, monitors, and enforces against all the groups"" that she had mentioned. He added that the new features add ""pre-trade screens"" to block people from participating.
+
+While Kalshi has been publicly cracking down on users trying to profit from nonpublic information, its rival Polymarket is going the other way.
+
+Polymarket's founder and CEO, Shayne Coplan, said in a November ""60 Minutes"" interview that some people will have an edge in the market, an inevitability which he said is a ""good thing.""",lawmakers zero insider trading risks kalshi said rolling fresh set guardrails sports political betting markets press release monday new york city based prediction markets platform said introducing guardrails preemptively block politicians athletes relevant people trading certain politics sports markets move made comply congressional proposals prohibit insider trading company said politicians kalshi said already prevents elected officials betting platform extend ban political candidates trying trade campaigns additionally people college professional sports including athletes personnel referees preemptively blocked trading markets associated sports involved kalshi said release trades always banned prior monday new feature launch investigations done trades placed company also announced new whistleblower function allows kalshi users flag potential violations saying screening system perfect motivated bad actors consistently try find way kalshi announcement landed day california sen adam schiff utah sen john curtis introduced bipartisan bill senate prediction markets gambling act legislation aims prohibit commodity futures trading commission cftc regulated companies kalshi polymarket listing predictions resemble sports bet casino style game new york rep alexandra ocasio cortez reacted kalshi announcement monday saying x post fig leaf deflect criticism absolutely enough said many individuals including staff advisors consultants cabinet secretaries spouses could trade insider information kalshi ceo tarek mansour responded ocasio cortez x post saying kalshi already bans monitors enforces groups mentioned added new features add pre trade screens block people participating kalshi publicly cracking users trying profit nonpublic information rival polymarket going way polymarket founder ceo shayne coplan said november minutes interview people edge market inevitability said good thing
+https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines,"As the risk of measles grows, why are parents so divided on vaccines?",2026-03-14,NPR,left,"In South Carolina, measles shows how far apart neighbors can be on vaccines
+
+toggle caption Mike Belleme for NPR
+
+When Kate Morrow gave birth to twins eight years ago, they were very premature, with compromised immune systems.
+
+""We counted on the community to keep our children safe,"" Morrow says. She trusted that her neighbors were vaccinating their children to protect other vulnerable people in her community — including her twins. But that's no longer the case.
+
+Morrow and her family moved to Spartanburg County, S.C., in 2019. The area is the epicenter of the biggest measles outbreak in the U.S. in more than three decades, with nearly 1,000 confirmed cases. Measles — one of the world's most contagious diseases — was declared eliminated in the U.S. in 2000, thanks to widespread vaccination and school vaccine requirements.
+
+Sponsor Message
+
+But with the current resurgence of measles, the country is at risk of losing that elimination status.
+
+In Spartanburg County, school vaccination rates have fallen to just under 89% — well below the 95% threshold needed to prevent community outbreaks.
+
+And it's not just Spartanburg. There are places around the country where vaccination rates have sunk to levels low enough to allow outbreaks to flare, says Michael Osterholm, director of the University of Minnesota's Center for Infectious Disease Research and Policy.
+
+""There are a lot more South Carolinas waiting to happen,"" he says.
+
+toggle caption Mike Belleme for NPR
+
+Morrow says it's hard for her to understand why so many parents in her community are turning against vaccines.
+
+""How did we get here?"" she asks. ""How did we get to a place where we don't trust our doctors to do the very best thing for our children? How did we get to a place where vaccinations have become political?""
+
+The answer is a mix of widespread misinformation, lingering resentment over COVID mandates, and politicians at the local and national level who are sowing mistrust of vaccines.
+
+'I don't trust anything anymore'
+
+Margarita DeLuca says she didn't give much thought to vaccines until COVID hit. She has three children and lives in neighboring Greenville County. When the COVID vaccine was first rolled out, DeLuca was scared that it had been developed too quickly to be trustworthy, and she was opposed to vaccine mandates.
+
+Sponsor Message
+
+""I think it should have been a choice. It shouldn't have been shoved down your throat like you have to do it,"" DeLuca says.
+
+toggle caption Mike Belleme for NPR
+
+DeLuca is not alone. Resentment over vaccine mandates and other public health measures during the pandemic prompted more parents to question vaccine requirements, says Dr. Martha Edwards, president of the South Carolina chapter of the American Academy of Pediatrics.
+
+""COVID hit and people really didn't like the mandates and that was a big boiling point,"" Edwards says. ""And in South Carolina, that really has caused a lot of people to escalate their feelings of 'don't tell me what to do.' ""
+
+Still, when DeLuca's eldest child, Nikko, was born in the summer of 2021, she got him his routine shots for the first couple of years of his life.
+
+But about a week after he got his 2-year-old vaccinations, Nikko spiked a fever and experienced a seizure.
+
+""He froze up and then he started convulsing right in my arms — the scariest thing ever,"" DeLuca recalls.
+
+Nikko recovered. Her pediatrician at the time told her these seizures can happen when toddlers get high fevers, and it's unlikely vaccines played a role. But DeLuca remains dubious.
+
+""He hasn't had any seizures since. But he hasn't had any vaccines either. I'm not saying it's from that, but there is a chance,"" she says.
+
+So, like a growing number of parents nationwide, DeLuca decided to forgo vaccinations for Nikko, now 4, and his twin infant siblings.
+
+""I'm grateful that I did not vaccinate them right now,"" she says. ""Maybe at 5 years old, their bodies are bigger and they have a higher immune system. They can handle things.""
+
+Local pediatrician Stuart Simko with Prisma Health in Greer, S.C., says he hears this from other parents. And he tries to explain why delaying vaccinations is risky.
+
+Sponsor Message
+
+""This is the time where your child is at a higher risk, the younger they are, for complications from many of the things that we vaccinate against,"" he says.
+
+For instance, the measles, mumps and rubella, or MMR, vaccine can prevent serious complications from measles like brain swelling and pneumonia, both of which have been documented among children in this outbreak. Vaccines can also prevent immune amnesia, a phenomenon where the virus wipes out parts of the immune system, leaving kids vulnerable to new infections for several years.
+
+And the virus can be deadly. Before the first vaccines were developed in the 1960s measles used to kill hundreds of U.S. children every year.
+
+Simko says he tries not to judge parents but to listen to their fears.
+
+""The parent who's choosing not to vaccinate their child, they're not trying to make a bad medical decision. They want what's best for their child. And we have to understand where they're coming from,"" he says.
+
+Social media is a big problem. Many of Simko's patients are overwhelmed by information; some of it is good, he says and some is just not backed by science.
+
+DeLuca says she no longer knows what to believe when it comes to online information.
+
+""I don't trust anything anymore. I really don't.""
+
+Exemptions rise, vaccination rates fall
+
+Spartanburg County is a solidly conservative part of South Carolina. Dotted with small towns, its sprawling countryside is home to rural communities, conservative faith groups and a sizable Slavic immigrant population. All of these groups tend to have lower vaccination rates across the U.S.
+
+toggle caption Mike Belleme for NPR
+
+In the majority of states, parents can apply for nonmedical exemptions to required vaccines for religious, personal or philosophical reasons. In Spartanburg County, the use of religious exemptions has skyrocketed since the pandemic. Today, nearly 10% of students in the county have a religious exemption — up from 3.4% at the start of the 2020-21 school year.
+
+Sponsor Message
+
+The result is that vaccination rates among school children are dropping. The majority of schools in Spartanburg County now have vaccination rates below the 95% threshold required to prevent measles outbreaks. In one public charter school — which has seen dozens of students quarantined for measles — the vaccination rate is a shockingly low 21%.
+
+Republican state Sen. Josh Kimbrell, a lifelong Spartanburg resident, says he understands why parents have grown more skeptical of vaccines in the wake of what he calls the government's ""overbearing"" response to COVID. But he says the distrust has gotten ""out of control.""
+
+The exemptions have become easy to obtain — parents can download a form and they don't have to state their religious reasoning. All they have to do is get it notarized.
+
+""I know people who haven't set foot in a church in five years who suddenly decide it's a religious liberty exemption and don't have a religious reason,"" Kimbrell says. ""They just don't want to do it. And that's fine but just say that.""
+
+Public health researchers say eliminating nonmedical exemptions to vaccine requirements could help raise falling vaccination rates. But in South Carolina, where opposition to government mandates is firmly entrenched, that's unlikely to happen. Last week, the state legislature shot down a bill that would have kept unvaccinated children out of schools.
+
+And it's not just South Carolina. A recent study found the rate of nonmedical exemptions to vaccines has risen steadily in the majority of U.S. counties, and this trend has accelerated since the pandemic.
+
+Parents changing their minds
+
+Gene Zakharov is one of those Spartanburg parents who got religious exemptions for his children. He owns a cafe, 121 Coffee, in sight of Emmanuel Church where he's an active member of the leadership team.
+
+toggle caption Mike Belleme for NPR
+
+Zakharov is part of the large Slavic community drawn to Spartanburg by its conservative politics and sunshine. He says many people from the former Soviet Union who settled here ""don't believe in vaccines.""
+
+Sponsor Message
+
+""People who lived there have a big distrust in the government, to say the least,"" he says.
+
+He and his wife didn't vaccinate their two youngest children. They worried about potential side effects from vaccines. But they changed their minds after their 13-year-old daughter was exposed to measles at a friend's house and spent time in quarantine.
+
+""It doesn't hit you until you actually come in contact with something like this. You're like, well, thank God my kid is all right. But you know, what if she wasn't?""
+
+Zakharov is not the only parent questioning earlier decisions. As the measles outbreak exploded in January, pediatrician Stuart Simko says his phone started ringing.
+
+""I've had several patients who've said no to vaccinations in the past who've said, 'Hey, what do you think of the MMR?' "" he says. ""What do you think about measles? It's in our backyard.""
+
+He explains how dangerous the measles virus can be. And ""a lot of people are changing their minds,"" Simko says.
+
+Combatting myths and fears
+
+Tracy Hobbs changed her mind recently.
+
+Last month Hobbs brought her 5-year-old twins, Joseph and Alice, to a mobile vaccine clinic to get their first dose of the measles, mumps and rubella vaccine. The twins should have gotten their first shots around 12 months of age, but Hobbs decided against it at the time. That's because her oldest child, now 7, was diagnosed with autism shortly after he got his first measles vaccine.
+
+Hobbs says she saw conflicting information about whether the vaccines were to blame.
+
+toggle caption Rebecca Davis for NPR
+
+""We were afraid that if we had gotten the kids the vaccines, that it might actually cause autism,"" Hobbs says. ""And that's really messed us up because what are you supposed to believe?""
+
+Claims linking the vaccine to autism stem from a 1998 study that has been thoroughly debunked by a large body of research, but this misinformation still circulates widely. Health Secretary Robert F. Kennedy Jr. has long promoted the discredited claim and he recently directed the Centers for Disease Control and Prevention to change its website to say the link can not be ruled out. Hobbs says all the conflicting information out there is confusing.
+
+Sponsor Message
+
+""You have one person saying, hey, this could cause the kid to get autism. And then you have somebody saying, no. I've gotten conflicting information since the day they were born,"" she says.
+
+But when her twins were also diagnosed with autism, even though they weren't vaccinated, Hobbs changed her mind. With measles spreading rapidly around her, she decided to get them the shot. ""The measles aren't really something to play with,"" Hobbs says.
+
+'Not an outlier'
+
+Spartanburg mom Kate Morrow says it pains her to know this kind of misinformation about vaccines and autism still circulates. One of her twins has autism. Both are fully vaccinated.
+
+She wants to encourage parents to trust the science and to speak openly with their pediatrician about their fears.
+
+She feels so strongly about this that she's helping a pro-vaccine advocacy group called South Carolina Families for Vaccines get off the ground. ""I'm rooting for the mom in the middle that's feeling lost and scared and doesn't really know what to do,"" Morrow says.
+
+There's some evidence that outreach efforts are working. State epidemiologist Linda Bell says vaccination rates in Spartanburg County were up by 133% in February compared to the previous year. And new measles cases have slowed significantly.
+
+But the danger hasn't disappeared altogether, says Scott Thorpe, executive director of the Southern Alliance for Public Health Leadership.
+
+""I think what keeps me up at night more than anything else is that Spartanburg is not an outlier,"" he says. He notes that just across the border in western North Carolina, there are lots of counties with lower vaccination rates. ""And we've already started to see some cases there.""
+
+Across the U.S., there have been 12 new measles outbreaks so far this year, and more than 1,280 confirmed cases, according to the CDC.
+
+""It's just kind of percolating in all these places,"" Thorpe says. ""And eventually it's going to catch on and turn into a big outbreak, just like Spartanburg. And it's just going to keep on happening as vaccination rates get lower.""
+
+Sponsor Message
+
+This story was edited by Jane Greenhalgh and Carmel Wroth. Rebecca Davis was the field producer.",south carolina measles shows far apart neighbors vaccines toggle caption mike belleme npr kate morrow gave birth twins eight years ago premature compromised immune systems counted community keep children safe morrow says trusted neighbors vaccinating children protect vulnerable people community including twins longer case morrow family moved spartanburg county c area epicenter biggest measles outbreak u three decades nearly confirmed cases measles one world contagious diseases declared eliminated u thanks widespread vaccination school vaccine requirements sponsor message current resurgence measles country risk losing elimination status spartanburg county school vaccination rates fallen well threshold needed prevent community outbreaks spartanburg places around country vaccination rates sunk levels low enough allow outbreaks flare says michael osterholm director university minnesota center infectious disease research policy lot south carolinas waiting happen says toggle caption mike belleme npr morrow says hard understand many parents community turning vaccines get asks get place trust doctors best thing children get place vaccinations become political answer mix widespread misinformation lingering resentment covid mandates politicians local national level sowing mistrust vaccines trust anything anymore margarita deluca says give much thought vaccines covid hit three children lives neighboring greenville county covid vaccine first rolled deluca scared developed quickly trustworthy opposed vaccine mandates sponsor message think choice shoved throat like deluca says toggle caption mike belleme npr deluca alone resentment vaccine mandates public health measures pandemic prompted parents question vaccine requirements says dr martha edwards president south carolina chapter american academy pediatrics covid hit people really like mandates big boiling point edwards says south carolina really caused lot people escalate feelings tell still deluca eldest child nikko born summer got routine shots first couple years life week got year old vaccinations nikko spiked fever experienced seizure froze started convulsing right arms scariest thing ever deluca recalls nikko recovered pediatrician time told seizures happen toddlers get high fevers unlikely vaccines played role deluca remains dubious seizures since vaccines either saying chance says like growing number parents nationwide deluca decided forgo vaccinations nikko twin infant siblings grateful vaccinate right says maybe years old bodies bigger higher immune system handle things local pediatrician stuart simko prisma health greer c says hears parents tries explain delaying vaccinations risky sponsor message time child higher risk younger complications many things vaccinate says instance measles mumps rubella mmr vaccine prevent serious complications measles like brain swelling pneumonia documented among children outbreak vaccines also prevent immune amnesia phenomenon virus wipes parts immune system leaving kids vulnerable new infections several years virus deadly first vaccines developed measles used kill hundreds u children every year simko says tries judge parents listen fears parent choosing vaccinate child trying make bad medical decision want best child understand coming says social media big problem many simko patients overwhelmed information good says backed science deluca says longer knows believe comes online information trust anything anymore really exemptions rise vaccination rates fall spartanburg county solidly conservative part south carolina dotted small towns sprawling countryside home rural communities conservative faith groups sizable slavic immigrant population groups tend lower vaccination rates across u toggle caption mike belleme npr majority states parents apply nonmedical exemptions required vaccines religious personal philosophical reasons spartanburg county use religious exemptions skyrocketed since pandemic today nearly students county religious exemption start school year sponsor message result vaccination rates among school children dropping majority schools spartanburg county vaccination rates threshold required prevent measles outbreaks one public charter school seen dozens students quarantined measles vaccination rate shockingly low republican state sen josh kimbrell lifelong spartanburg resident says understands parents grown skeptical vaccines wake calls government overbearing response covid says distrust gotten control exemptions become easy obtain parents download form state religious reasoning get notarized know people set foot church five years suddenly decide religious liberty exemption religious reason kimbrell says want fine say public health researchers say eliminating nonmedical exemptions vaccine requirements could help raise falling vaccination rates south carolina opposition government mandates firmly entrenched unlikely happen last week state legislature shot bill would kept unvaccinated children schools south carolina recent study found rate nonmedical exemptions vaccines risen steadily majority u counties trend accelerated since pandemic parents changing minds gene zakharov one spartanburg parents got religious exemptions children owns cafe coffee sight emmanuel church active member leadership team toggle caption mike belleme npr zakharov part large slavic community drawn spartanburg conservative politics sunshine says many people former soviet union settled believe vaccines sponsor message people lived big distrust government say least says wife vaccinate two youngest children worried potential side effects vaccines changed minds year old daughter exposed measles friend house spent time quarantine hit actually come contact something like like well thank god kid right know zakharov parent questioning earlier decisions measles outbreak exploded january pediatrician stuart simko says phone started ringing several patients said vaccinations past said hey think mmr says think measles backyard explains dangerous measles virus lot people changing minds simko says combatting myths fears tracy hobbs changed mind recently last month hobbs brought year old twins joseph alice mobile vaccine clinic get first dose measles mumps rubella vaccine twins gotten first shots around months age hobbs decided time oldest child diagnosed autism shortly got first measles vaccine hobbs says saw conflicting information whether vaccines blame toggle caption rebecca davis npr afraid gotten kids vaccines might actually cause autism hobbs says really messed us supposed believe claims linking vaccine autism stem study thoroughly debunked large body research misinformation still circulates widely health secretary robert f kennedy jr long promoted discredited claim recently directed centers disease control prevention change website say link ruled hobbs says conflicting information confusing sponsor message one person saying hey could cause kid get autism somebody saying gotten conflicting information since day born says twins also diagnosed autism even though vaccinated hobbs changed mind measles spreading rapidly around decided get shot measles really something play hobbs says outlier spartanburg mom kate morrow says pains know kind misinformation vaccines autism still circulates one twins autism fully vaccinated wants encourage parents trust science speak openly pediatrician fears feels strongly helping pro vaccine advocacy group called south carolina families vaccines get ground rooting mom middle feeling lost scared really know morrow says evidence outreach efforts working state epidemiologist linda bell says vaccination rates spartanburg county february compared previous year new measles cases slowed significantly danger disappeared altogether says scott thorpe executive director southern alliance public health leadership think keeps night anything else spartanburg outlier says notes across border western north carolina lots counties lower vaccination rates already started see cases across u new measles outbreaks far year confirmed cases according cdc kind percolating places thorpe says eventually going catch turn big outbreak like spartanburg going keep happening vaccination rates get lower sponsor message story edited jane greenhalgh carmel wroth rebecca davis field producer
+https://www.businessinsider.com/american-studied-china-universities-cheaper-2026-3,I'm an American who studied at universities in China. The Chinese system was cheaper and set me up for success after graduation.,2026-03-15,Business Insider,unknown,"I've done something quite rare: I'm an American who attended college in both the US and China.
+
+I completed my undergraduate degree in political science at a state university in New York and studied abroad in Wuhan, China, during the summer of 2015. Ten years later, in 2025, I returned to Shijiazhuang, China, while completing my second graduate degree in global health, interning at a medical university.
+
+Experiencing Chinese universities at two distinct points in my life, a decade apart, gave me a rare view of how the system operates and how it has evolved.
+
+I didn't meet any Americans studying in China most recently
+
+During my first trip, I was in a group of about 30 American college students. The second time, I was the only person from my cohort to go.
+
+Since the pandemic, the number of US students in China has dropped, according to NPR. In fact, I didn't meet a single American in the three months I was in the country most recently.
+
+Both times, I met lots of African students, though. They were heavily invested in and integrated into the Chinese learning and working systems.
+
+I've noticed China sets the international students I met up for success
+
+Many of the international students I talked to in the US told me how hard it was to integrate and find a pathway to work after school in New York.
+
+In China, I noticed there's a pathway for international students who want to stay, particularly those who have developed strong Mandarin skills.
+
+The Chinese government and universities are actively trying to entice international students to come to the country, while also investing in ways to retain graduates.
+
+Campus life looks very different from what I experienced in the US
+
+The internet firewall in China can make research difficult, and I've seen doctors smoking in classrooms between lectures.
+
+Student life also reflects a different set of norms. There is low tolerance for drugs and alcohol on many Chinese campuses. After class, I saw friends playing badminton rather than drinking beer.
+
+Technology and security are also visible on campus. Students on the campuses I studied entered by scanning their faces and were tracked by cameras.
+
+The author worked with many Chinese students. Courtesy of Catherine Work
+
+Politics also felt more openly present in academic life. Most of the professors and physicians I worked with were active members of the Communist Party and often wore pins on their lapels to signify it.
+
+As one local friend put it, ""having one state party means policies don't change every four years,"" which, in their view, can create a certain level of stability for universities.
+
+Chinese universities are far cheaper and more specialized
+
+The two universities I studied at in China didn't have the fancy sports facilities most American colleges do, but many students I met weren't going into debt to study either.
+
+Tuition in China is subsidized by the government, especially at public universities. That means it's relatively affordable compared with many Western countries.
+
+Housing and food costs are also inexpensive in my experience. I was eating a healthy lunch on campus for $1 a day. My American campus used to sell a single banana for $1.05 in 2015.
+
+I also spent a year taking general courses in America. While I loved taking a class on Bollywood as a political science major, the specialization offered by many Chinese universities helped better prepare me for the real world. I also saved money by not taking general courses while in China.
+
+Studying in both systems changed how I think about education
+
+I didn't just earn my degrees in multiple countries; I learned about the culture of education. I learned how the government impacts who can study what and if they will be successful.
+
+I'll always be partial to the American scholastic mentality of questioning everything and forming opinions, rather than the rote memorization I saw in China, but I'd prefer not to be launched into the working world with so much student loan debt.
+
+I hope more Americans can form their own opinions of China's educational system, which has rapidly evolved and will only continue to grow in its unique way.",done something quite rare american attended college us china completed undergraduate degree political science state university new york studied abroad wuhan china summer ten years later returned shijiazhuang china completing second graduate degree global health interning medical university experiencing chinese universities two distinct points life decade apart gave rare view system operates evolved meet americans studying china recently first trip group american college students second time person cohort go since pandemic number us students china dropped according npr fact meet single american three months country recently times met lots african students though heavily invested integrated chinese learning working systems noticed china sets international students met success many international students talked us told hard integrate find pathway work school new york china noticed pathway international students want stay particularly developed strong mandarin skills chinese government universities actively trying entice international students come country also investing ways retain graduates campus life looks different experienced us internet firewall china make research difficult seen doctors smoking classrooms lectures student life also reflects different set norms low tolerance drugs alcohol many chinese campuses class saw friends playing badminton rather drinking beer technology security also visible campus students campuses studied entered scanning faces tracked cameras author worked many chinese students courtesy catherine work politics also felt openly present academic life professors physicians worked active members communist party often wore pins lapels signify one local friend put one state party means policies change every four years view create certain level stability universities chinese universities far cheaper specialized two universities studied china fancy sports facilities american colleges many students met going debt study either tuition china subsidized government especially public universities means relatively affordable compared many western countries housing food costs also inexpensive experience eating healthy lunch campus day american campus used sell single banana also spent year taking general courses america loved taking class bollywood political science major specialization offered many chinese universities helped better prepare real world also saved money taking general courses china studying systems changed think education earn degrees multiple countries learned culture education learned government impacts study successful always partial american scholastic mentality questioning everything forming opinions rather rote memorization saw china prefer launched working world much student loan debt hope americans form opinions china educational system rapidly evolved continue grow unique way
+https://www.bbc.com/sport/articles/ckgzzepvgx2o,Watershed moment as Russia's sporting exile ends,2026-03-04,BBC News,center,"IOC president Kirsty Coventry certainly suggested as much recently when she said: ""Our game is sport. That means keeping sport a neutral ground. A place where every athlete can compete freely, without being held back by the politics or divisions of their governments.""
+
+Although she did not directly reference any particular country, the comments were widely interpreted to be hinting at a potential lifting of the partial Olympic ban on Russia and Belarus. Her words were welcomed warmly by Russian officials, with its sports minister suggesting the IOC could consider reinstatement in the spring.
+
+So could Russia's Olympic exile be over by the time of the LA Games in 2028? Notably, Paulo Zampolli, US President Donald Trump's special representative for global partnerships, has appeared to support Russian participation at the Paralympics, reportedly saying that ""sport is for all""., external
+
+While some international sports organisations - such as World Athletics - have continued with blanket bans on Russian athletes, others have started to ease restrictions.
+
+For instance, last year the International Judo Federation allowed them to compete under their national flag. And in December, the IOC advised sports governing bodies to let Russian youth athletes compete at international events again, under their own flag and national anthem.
+
+In international football, there are also moves to reintegrate Russia. The country was unable to compete at the 2022 World Cup and Euro 2024, and will not be part of the 2026 World Cup. However, Fifa president Gianni Infantino recently said the governing body would consider lifting its ban, adding the sanction has ""has not achieved anything"" and ""has just created more frustration and hatred"".
+
+Ukraine's opposition to such moves remains steadfast. According to its sports minister, Russia has killed more than 650 Ukrainian athletes and coaches, and damaged 814 sports facilities.
+
+Global Athlete, an international athlete-led movement and campaign group, says: ""Now is the time for sport to show leadership, not weakness.
+
+""The global sporting community must stand together and demand that the IOC increase sanctions on Russia, not relax them.
+
+""Russia should only be allowed back when the war ends and Russia withdraws from Ukraine. The peaceful nation of Ukraine needs support, not enablers.""
+
+The IPC may have paved the way for other global sports bodies to try to follow suit. At at a time of geopolitical upheaval, and more frequent demands for these organisations to take a stand against certain countries, the suspension of Russia could be seen as undermining their attempts to remain politically neutral.
+
+But while the conflict with Ukraine continues, any moves by the IOC, Fifa or other sports bodies to do so will be highly controversial, and be met with considerable opposition, especially in Europe.",ioc president kirsty coventry certainly suggested much recently said game sport means keeping sport neutral ground place every athlete compete freely without held back politics divisions governments although directly reference particular country comments widely interpreted hinting potential lifting partial olympic ban russia belarus words welcomed warmly russian officials sports minister suggesting ioc could consider reinstatement spring could russia olympic exile time la games notably paulo zampolli us president donald trump special representative global partnerships appeared support russian participation paralympics reportedly saying sport external international sports organisations world athletics continued blanket bans russian athletes others started ease restrictions instance last year international judo federation allowed compete national flag december ioc advised sports governing bodies let russian youth athletes compete international events flag national anthem international football also moves reintegrate russia country unable compete world cup euro part world cup however fifa president gianni infantino recently said governing body would consider lifting ban adding sanction achieved anything created frustration hatred ukraine opposition moves remains steadfast according sports minister russia killed ukrainian athletes coaches damaged sports facilities global athlete international athlete led movement campaign group says time sport show leadership weakness global sporting community must stand together demand ioc increase sanctions russia relax russia allowed back war ends russia withdraws ukraine peaceful nation ukraine needs support enablers ipc may paved way global sports bodies try follow suit time geopolitical upheaval frequent demands organisations take stand certain countries suspension russia could seen undermining attempts remain politically neutral conflict ukraine continues moves ioc fifa sports bodies highly controversial met considerable opposition especially europe
+https://www.businessinsider.com/israel-losing-tech-workers-war-politics-cost-of-living-2026-3,Thousands of tech workers have left Israel in recent years. 3 of them told us war wasn't their only reason.,2026-03-14,Business Insider,unknown,"Elizabeth Schwartz Cohen lost count of how many times she found herself glued to her phone in her Tel Aviv apartment in the aftermath of October 7, 2023, bracing for the next missile alert and the scramble to a shelter.
+
+Now, Tel Aviv is under fire once again, only this time, Schwartz Cohen is almost 6,000 miles away, back home in Hoboken, New Jersey, waiting to give birth.
+
+Schwartz Cohen, a 34-year-old American tech worker, says it was the ""strong sense of community and the contagious energy of the people"" that first drew her to Israel. But in 2024, six years after moving there, she became one of several thousand tech workers to leave the country in what she described as a ""mass exodus.""
+
+Three tech workers who have left or are considering leaving Israel told Business Insider the ongoing conflicts are not the only thing that drove them out of the country.
+
+""It's either about priorities shifting, wanting to return to be close to family when you enter that life phase, financial incentives, or maybe just the war and just not wanting to raise your kids around the alarms,"" Schwartz Cohen said.
+
+Priced out of the 'startup nation'
+
+Israel's tech ecosystem includes several thousand startups, alongside offices for Big Tech companies like Intel, Microsoft, and Nvidia. Among its homegrown tech successes are Wix, the website development company, Fiverr, the online marketplace for freelance services, and Waze, the satellite navigation company that Google acquired for $1.15 billion in 2013.
+
+From the 1990s, Israel experienced rapid growth in ""high-tech,"" or the innovative technology industry. The number of high-tech employees in Israel increased each year over the past decade, until 2024, when the number of employees decreased by 1.2% from 2023, according to the latest data published by the Israeli government's technological research and investment arm.
+
+Roughly 8,300 high-tech employees left Israel between October 2023 and July 2024, representing 2.1% of the total high-tech employees in 2024, the data shows.
+
+Itai Ater, an economics professor at Tel Aviv University, told Business Insider that in addition to war, he believes political factors and the cost of living are driving people out. According to the Tech Cities Index, which measures purchasing power for software engineers in global cities, the median salary in Tel Aviv is $54,000 lower than in New York City.
+
+Mercer's 2024 Cost of Living City Ranking, published in December that year and the most recent available, also paints a picture of how expensive Israel can feel for expats. It ranked Tel Aviv 16th globally among the most expensive cities for international professionals, second only to Dubai in the Middle East.
+
+""For the first two years I was working, I was happy to take a lower salary compared to New York City, just because I was so happy to be in Israel,"" Schwartz Cohen said. Once she got married and later became pregnant, her priorities shifted.
+
+""These tech companies are paying middle America salaries but for the cost of New York City living,"" she said, adding: ""A lot of the more entrepreneurial or independent-minded people I know have either relocated to the US or found ways to earn income outside Israel.""
+
+Reuven Rivlin, Israel's president from 2014 to 2021, who is now leading the Israeli fintech company BitCore's bid with the Lava Foundation to launch a digital shekel, told Business Insider that while Israel remains a ""startup nation,"" the brain drain needs to be addressed.
+
+In an unpublished study co-authored by Ater, which was viewed by Business Insider, the researchers warn that Israel's economy is especially exposed to talent loss. ""Unlike countries with abundant natural resources, Israel's economy relies heavily on high-quality human capital, especially in the high-tech sector and other knowledge-intensive industries,"" it reads.
+
+Discontent started before the war for some
+
+Erez Schneider, 39, left Israel for Switzerland. Courtesy of Erez Schneider
+
+Erez Schneider, an Israel-born product manager at an AI company, worked in Israel's tech sector for 17 years before moving to Switzerland in September 2024. He appreciated the opportunities the booming industry afforded him and the support network he found in the sector ever since he was a student. ""I would say your social status is high,"" Schneider, 39, said.
+
+When it came to deciding whether to stay in Israel or move to Switzerland, where his wife is from, it was ultimately the political climate that drove him out. In particular, he pointed to Israeli Prime Minister Benjamin Netanyahu's proposed judicial overhaul, a legislative push launched in 2023 to tilt the balance of power away from the courts and toward the Israeli government.
+
+Starting life from scratch in Zurich has been difficult for Schneider. He's made a sideways career move in tech. Still, he doesn't believe he'll move back. ""I'm always thinking about it, but I'm not going to do it,"" he said.
+
+Schneider was struck by how many Israelis have joined him in Switzerland in recent months. ""We have an 'Israelis in Tech' group,"" Schneider said. ""At least every week there's someone new.""
+
+Conflict is taking its toll
+
+Cassio Leens, 36, moved from Brazil to Israel. He's now considering leaving. Courtesy of Cassio Leens
+
+Cassio Leens, 36, a Brazilian fraud analyst at an Israeli fintech company, moved to Ramat Gan, a city next to Tel Aviv, in 2020, motivated to relocate by economic opportunity and Zionism. Six years later, he said he's no longer convinced of either and has been considering leaving Israel since October 2023.
+
+""At the beginning of the outbreak of the war with Hamas, you'd read in the news about community and people coming together,"" he said. ""It didn't feel like that. It felt like war.""
+
+Over the past two-and-a-half years, Leens, like many other Israelis, has had to take cover in public shelters as sirens sounded during attacks from Iran, Hamas, and Hezbollah.
+
+During the June 2025 conflict between Israel and Iran, he said colleagues ""left the next day, even with their kids.""
+
+Leaving is rarely about just 'one factor'
+
+The emigration trend is concerning but not yet an emergency, experts told Business Insider. Given Israel's 10 million-strong population, Ater said he doesn't see the number of people leaving as a major threat for now.
+
+Alex Weinreb, a research director at Israel's Taub Center for Social Policy Studies, said the Israeli tech sector ""is continuing to thrive and grow rapidly.""
+
+Elizabeth Schwartz Cohen, 34, moved back to the US from Israel. Courtesy of Elizabeth Schwartz Cohen
+
+Among the friends Schwartz Cohen made in Israel, many of whom work in tech, she said she has few expat friends left in the country and even fewer planning to stay long term. As in her case, she said leaving is rarely about just one thing. ""I don't think anyone who leaves can pinpoint one factor as the main root cause,"" she said.
+
+Nine months pregnant and preparing to give birth any day now, Schwartz Cohen said another motivation for leaving — beyond political instability, money, and war — had crystallized lately. ""I didn't really want to start a family away from my family,"" she said. ""I felt like I really needed my mom.""
+
+Do you have a story to share about leaving Israel? Contact the reporters at jzitser@businessinsider.com and ccheong@businessinsider.com",elizabeth schwartz cohen lost count many times found glued phone tel aviv apartment aftermath october bracing next missile alert scramble shelter tel aviv fire time schwartz cohen almost miles away back home hoboken new jersey waiting give birth schwartz cohen year old american tech worker says strong sense community contagious energy people first drew israel six years moving became one several thousand tech workers leave country described mass exodus three tech workers left considering leaving israel told business insider ongoing conflicts thing drove country either priorities shifting wanting return close family enter life phase financial incentives maybe war wanting raise kids around alarms schwartz cohen said priced startup nation israel tech ecosystem includes several thousand startups alongside offices big tech companies like intel microsoft nvidia among homegrown tech successes wix website development company fiverr online marketplace freelance services waze satellite navigation company google acquired billion israel experienced rapid growth high tech innovative technology industry number high tech employees israel increased year past decade number employees decreased according latest data published israeli government technological research investment arm roughly high tech employees left israel october july representing total high tech employees data shows itai ater economics professor tel aviv university told business insider addition war believes political factors cost living driving people according tech cities index measures purchasing power software engineers global cities median salary tel aviv lower new york city mercer cost living city ranking published december year recent available also paints picture expensive israel feel expats ranked tel aviv th globally among expensive cities international professionals second dubai middle east first two years working happy take lower salary compared new york city happy israel schwartz cohen said got married later became pregnant priorities shifted tech companies paying middle america salaries cost new york city living said adding lot entrepreneurial independent minded people know either relocated us found ways earn income outside israel reuven rivlin israel president leading israeli fintech company bitcore bid lava foundation launch digital shekel told business insider israel remains startup nation brain drain needs addressed unpublished study co authored ater viewed business insider researchers warn israel economy especially exposed talent loss unlike countries abundant natural resources israel economy relies heavily high quality human capital especially high tech sector knowledge intensive industries reads discontent started war erez schneider left israel switzerland courtesy erez schneider erez schneider israel born product manager ai company worked israel tech sector years moving switzerland september appreciated opportunities booming industry afforded support network found sector ever since student would say social status high schneider said came deciding whether stay israel move switzerland wife ultimately political climate drove particular pointed israeli prime minister benjamin netanyahu proposed judicial overhaul legislative push launched tilt balance power away courts toward israeli government starting life scratch zurich difficult schneider made sideways career move tech still believe move back always thinking going said schneider struck many israelis joined switzerland recent months israelis tech group schneider said least every week someone new conflict taking toll cassio leens moved brazil israel considering leaving courtesy cassio leens cassio leens brazilian fraud analyst israeli fintech company moved ramat gan city next tel aviv motivated relocate economic opportunity zionism six years later said longer convinced either considering leaving israel since october beginning outbreak war hamas read news community people coming together said feel like felt like war past two half years leens like many israelis take cover public shelters sirens sounded attacks iran hamas hezbollah june conflict israel iran said colleagues left next day even kids leaving rarely one factor emigration trend concerning yet emergency experts told business insider given israel million strong population ater said see number people leaving major threat alex weinreb research director israel taub center social policy studies said israeli tech sector continuing thrive grow rapidly elizabeth schwartz cohen moved back us israel courtesy elizabeth schwartz cohen among friends schwartz cohen made israel many work tech said expat friends left country even fewer planning stay long term case said leaving rarely one thing think anyone leaves pinpoint one factor main root cause said nine months pregnant preparing give birth day schwartz cohen said another motivation leaving beyond political instability money war crystallized lately really want start family away family said felt like really needed mom story share leaving israel contact reporters jzitser businessinsider com ccheong businessinsider com
+https://www.bbc.co.uk/sounds/play/p0n3wwqr,Global News Podcast: US and Israel carry out joint attacks on Iran,2026-02-28,BBC News,center,"Available for 63 days
+
+President Donald Trump confirms that ""major combat operations"" are underway against targets in Iran in a joint operation by the US and Israeli military. The office of Iran's supreme leader, and the presidential office in Tehran, were reportedly targeted, as well as military sites across the country. In response Iran launched strikes at US military targets across the region - with damage reported in Qatar, the UAE and Kuwait. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk
+
+Programme Website",available days president donald trump confirms major combat operations underway targets iran joint operation us israeli military office iran supreme leader presidential office tehran reportedly targeted well military sites across country response iran launched strikes us military targets across region damage reported qatar uae kuwait global news podcast brings breaking news need hear happens listen latest headlines current affairs around world politics economics climate business technology health cover expert analysis insight get news matters delivered twice day weekdays daily weekends plus special bonus episodes reacting urgent breaking stories follow subscribe never miss moment get touch globalpodcast bbc co uk programme website
+https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump,Nintendo is suing the US government for a refund of Trump’s illegal tariffs,2026-03-06,The Verge,unknown,"is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.
+
+Posts from this author will be added to your daily email digest and your homepage feed.
+
+Nintendo of America is suing the US government over President Trump’s tariffs and is demanding a “prompt refund, with interest” of any duties that it has paid, according to a complaint filed in the US Court of International Trade, as reported previously by Aftermath.
+
+The Supreme Court ruled last month that Trump’s use of the International Emergency Economic Powers Act (IEEPA) to levy “reciprocal” tariffs was illegal, without specifying how any refunds might work.
+
+Nintendo announced launch details for the Switch 2, including a planned preorder date of April 9th, on the same day Trump announced plans to implement broad tariffs on imports from many countries last year. It pushed back Switch 2 preorders in the US to “assess the potential impact of tariffs,” before eventually launching as planned, but with hiked prices for several accessories.
+
+FedEx has also filed a lawsuit in the US Court of International Trade, asking for a “full refund” of tariff payments. The company said that, if refunds are issued to the company, it will refund customers for Trump’s tariffs to “the shippers and consumers who originally bore those charges.”",senior reporter covering technology gaming joined verge nearly two years techmeme posts author added daily email digest homepage feed nintendo america suing us government president trump tariffs demanding prompt refund interest duties paid according complaint filed us court international trade reported previously aftermath supreme court ruled last month trump use international emergency economic powers act ieepa levy reciprocal tariffs illegal without specifying refunds might work nintendo announced launch details switch including planned preorder date april th day trump announced plans implement broad tariffs imports many countries last year pushed back switch preorders us assess potential impact tariffs eventually launching planned hiked prices several accessories fedex also filed lawsuit us court international trade asking full refund tariff payments company said refunds issued company refund customers trump tariffs shippers consumers originally bore charges
+https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala,CISA is getting a new acting director after less than a year,2026-02-27,The Verge,unknown,"is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.
+
+Posts from this author will be added to your daily email digest and your homepage feed.
+
+The US Cybersecurity and Infrastructure Security Agency (CISA), which is part of the Department of Homeland Security, is getting a new acting director, as reported by ABC, less than a year after Madhu Gottumukkala took charge of the agency as deputy director and acting director in May 2025.
+
+CISA’s executive assistant director for cybersecurity, Nick Andersen, will become the agency’s new acting director while Gottumkkala will now be serving as director of strategic implementation at DHS. The leadership change comes just a month after reports that Gottumkkala uploaded sensitive documents to ChatGPT. Gottumkkala had requested special permission to use ChatGPT, despite the AI being off-limits for other DHS employees.
+
+Gottumkkala’s departure follows a downturn at CISA over the past year as the agency has been “gutted and politicized” by the Trump administration, resulting in budget cuts, layoffs, and wavering trust from local leaders. CISA is also still without a Senate-confirmed director. Trump nominated Sean Plankey for the role last year, then renominated him in January. Plankey previously served in the first Trump administration.",news writer covering things consumer tech stevie started laptop mag writing news reviews hardware gaming ai posts author added daily email digest homepage feed us cybersecurity infrastructure security agency cisa part department homeland security getting new acting director reported abc less year madhu gottumukkala took charge agency deputy director acting director may cisa executive assistant director cybersecurity nick andersen become agency new acting director gottumkkala serving director strategic implementation dhs leadership change comes month reports gottumkkala uploaded sensitive documents chatgpt gottumkkala requested special permission use chatgpt despite ai limits dhs employees gottumkkala departure follows downturn cisa past year agency gutted politicized trump administration resulting budget cuts layoffs wavering trust local leaders cisa also still without senate confirmed director trump nominated sean plankey role last year renominated january plankey previously served first trump administration
+https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran,AI Czar David Sacks wants Trump to ‘get out’ of Iran,2026-03-15,The Verge,unknown,"is the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.
+
+Posts from this author will be added to your daily email digest and your homepage feed.
+
+David Sacks, the White House’s AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that “we should try to find the off-ramp.” He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more alarmingly, that it could start targeting desalination plants, which provide water to much of the region, and could lead to an even larger humanitarian crisis.
+
+Sacks has never made humanitarian efforts a cornerstone of his public persona, however. But he has a well-documented anti-interventionist streak, and even claimed on stage at the RNC that America “provoked” Russia into invading Ukraine.
+
+Despite his service in the Trump administration, Sacks has remained involved in the private sector and has a financial interest in getting out, since, according to him, that is “what the markets would like to see.”
+
+The war also specifically threatens the AI industry, which Sacks oversees at the White House. Iranian drone strikes forced QatarEnergy to shut down production of liquefied natural gas and helium. According to Bloomberg, the company is responsible for one-third of the world’s helium supply, which is critical for Electronics and semiconductor manufacturing. Economist Andreas Steno Larsen, told Yahoo!Finance that “This could potentially turn into a bottleneck for the entire AI story.”",verge weekend editor years experience including years managing editor engadget posts author added daily email digest homepage feed david sacks white house ai crypto czar warned continued war iran could catastrophic podcast sacks said try find ramp expressed concern iran could demolish oil gas infrastructure across middle east alarmingly could start targeting desalination plants provide water much region could lead even larger humanitarian crisis sacks never made humanitarian efforts cornerstone public persona however well documented anti interventionist streak even claimed stage rnc america provoked russia invading ukraine despite service trump administration sacks remained involved private sector financial interest getting since according markets would like see war also specifically threatens ai industry sacks oversees white house iranian drone strikes forced qatarenergy shut production liquefied natural gas helium according bloomberg company responsible one third world helium supply critical electronics semiconductor manufacturing economist andreas steno larsen told yahoo finance could potentially turn bottleneck entire ai story
